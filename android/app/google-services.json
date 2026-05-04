@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1021278938549",
+    "project_id": "distribucion-apk-miguel",
+    "storage_bucket": "distribucion-apk-miguel.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021278938549:android:7dff9f43b34ad45a2da5fc",
+        "android_client_info": {
+          "package_name": "com.example.distribucion_apk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0yN0eBkX5Eb2nh7g3f2wpfsAAZVJOtuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
